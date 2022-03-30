@@ -103,7 +103,7 @@ Set of ASCII characters that should not be percent encoded. All characters are e
 If specified, the values from the option na_values will be interpreted as NULL.
 
 - `Valid values`: yes, no, true, false, on, off, 1, 0
-- `Default value`: yes
+- `Default value`: yes 
 ### `na_values` (optional)
 Set of values to be interpreted as NULL when retrieving data from the input sources. The valid values are a list of values separated by commas.
 
